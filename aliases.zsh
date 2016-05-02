@@ -66,3 +66,7 @@ alias gu="git shortlog | grep -E '^[^ ]'"
 # -------------------------------------------------------------------
 alias 'rm=rm -i' # make rm command (potentially) less destructive
 alias sz='source ~/.zshrc'
+
+alias tddskel='git clone git@github.com:inevs/tdd-skeleton-java.git'
+
+alias rake='noglob rake'
