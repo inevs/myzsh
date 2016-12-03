@@ -10,7 +10,3 @@ source ~/.zsh/functions.zsh
 source ~/.zsh/history.zsh
 source ~/.zsh/zsh_hooks.zsh
 #source  ${HOME}/.dotfiles/z/z.sh
-
-#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="/Users/sven/.sdkman"
-[[ -s "/Users/sven/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/sven/.sdkman/bin/sdkman-init.sh"

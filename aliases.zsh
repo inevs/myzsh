@@ -66,4 +66,3 @@ alias sz='source ~/.zshrc'
 alias tddskel='git clone git@github.com:inevs/tdd-skeleton-java.git'
 
 alias rake='noglob rake'
-alias py='python3'
