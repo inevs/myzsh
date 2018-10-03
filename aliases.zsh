@@ -66,3 +66,12 @@ alias sz='source ~/.zshrc'
 alias tddskel='git clone git@github.com:inevs/tdd-skeleton-java.git'
 
 alias rake='noglob rake'
+
+# Atom instead of Sublime text
+alias subl="atom"
+alias fpe='cd ~/development/fpe-homepage'
+
+# Docker
+alias dc="docker-compose"
+alias dce="docker-compose exec"
+alias dcr="docker-compose run --rm"
