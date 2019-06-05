@@ -27,4 +27,5 @@ export LC_COLLATE=C
 
 export GRADLE_OPTS=-Dorg.gradle.daemon=true
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home
+
 export PATH=$PATH:$JAVA_HOME/bin
